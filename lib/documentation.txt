@@ -2,4 +2,16 @@ Overview
  Several pub packages: 
   - bloc : core bloc library
   - flutter_bloc : powerful flutter widgets built to work with bloc in order to build fast, reactive mobile applications. 
-  - angu
+  - angular_bloc : powerful angular components built to work with block in order to build fast, reactive web applications. 
+  - hydrated_bloc : an extension to the bloc state management library whcih automatically persists and restores bloc states
+  - replay_bloc : an extension to the bloc state management library which adds support for undo and redo.
+  
+Why Bloc? 
+  - Block makes it easy to separate prsentation from business logic, making cocde fast, easy to test and reusable. 
+  It tends to be designed with three core values : 
+   - Simple: easy to understand
+   - Powerful: help making amazing, complex applications by composing them of smaller components. 
+   - Testable: easily test every aspect of an application. 
+
+Core Concepts ( package: bloc) 
+  - Streams : It's a sequence of asynchronous data. 
