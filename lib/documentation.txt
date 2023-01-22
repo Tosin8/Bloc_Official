@@ -1,0 +1,5 @@
+Overview
+ Several pub packages: 
+  - bloc : core bloc library
+  - flutter_bloc : powerful flutter widgets built to work with bloc in order to build fast, reactive mobile applications. 
+  - angu
