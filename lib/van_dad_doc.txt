@@ -1,0 +1,1 @@
+Blocs are built on cubits[they are high level Streams and expose a nice interface for changes over time]. 
